@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-redirect-from
 theme: jekyll-theme-minimal
 title: Fixing all of the things
 description: Many of the things are broken; this is intolerable
+author: "Matt Fallshaw"
