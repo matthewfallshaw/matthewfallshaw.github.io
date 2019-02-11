@@ -25,4 +25,4 @@ The others are all broken:
 [RFC 3339](https://www.ietf.org/rfc/rfc3339.txt)  
 [XKCD: ISO 8601](http://xkcd.com/1179/)
 
-(edited 2019-02-12)
+<small>(edited 2019-02-12)</small>
