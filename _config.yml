@@ -5,3 +5,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-sitemap  # run last to collect all content
