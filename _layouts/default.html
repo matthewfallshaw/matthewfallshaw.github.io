@@ -10,6 +10,8 @@
     {% feed_meta %}
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- https://github.com/bryanbraun/anchorjs -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -26,7 +28,8 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+          <a href="{{ site.github.owner_url }}"><img class="avatar avatar-small" alt="{{ site.github.owner_name }}" width="40" height="40" data-proofer-ignore="true" src="https://avatars0.githubusercontent.com/{{ site.github.owner_name }}?v=3&amp;s=40" srcset="https://avatars0.githubusercontent.com/{{ site.github.owner_name }}?v=3&amp;s=40 1x, https://avatars0.githubusercontent.com/{{ site.github.owner_name }}?v=3&amp;s=80 2x, https://avatars0.githubusercontent.com/{{ site.github.owner_name }}?v=3&amp;s=120 3x, https://avatars0.githubusercontent.com/{{ site.github.owner_name }}?v=3&amp;s=160 4x"></a>
+          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -55,14 +58,19 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
     {% endif %}
+    <!-- https://github.com/bryanbraun/anchorjs -->
+    <script>
+      anchors.add();
+    </script>
   </body>
 </html>

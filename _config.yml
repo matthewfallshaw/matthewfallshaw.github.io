@@ -1,8 +1,10 @@
 title: Fixing all of the things
 description: Many of the things are broken; this is intolerable
-author: "Matt Fallshaw"
+author: Matt Fallshaw
 theme: jekyll-theme-minimal
+google_analytics: UA-139131384-1
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap  # run last to collect all content

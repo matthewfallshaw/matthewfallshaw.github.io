@@ -7,22 +7,22 @@ Communicating effectively can mean the difference between a 30 second conversati
 The situation used below is familiar to anyone who's ever had to hold a meeting. It may have benefits in other situations.
 
 Compare the following two conversations:
-### Conversation 1 -
-Adam: Hey Betty, are you free for a meeting at 12?  
-Betty: Sorry Adam, nope.  
-Adam: How's 2?  
-Betty: Nope, 2 doesn't work either. I am free at 4.  
-Adam: Nup, 4 doesn't work for me. I'm free right now though. Does that work?  
-Betty: Sorry, I missed your email. That would have been perfect. How's 8:30 tomorrow?  
-Adam: Erm, 8:45 works.  
-Betty: Excellent. See you then.
+#### Conversation 1
+> Adam: Hey Betty, are you free for a meeting at 12?  
+> Betty: Sorry Adam, nope.  
+> Adam: How's 2?  
+> Betty: Nope, 2 doesn't work either. I am free at 4.  
+> Adam: Nup, 4 doesn't work for me. I'm free right now though. Does that work?  
+> Betty: Sorry, I missed your email. That would have been perfect. How's 8:30 tomorrow?  
+> Adam: Erm, 8:45 works.  
+> Betty: Excellent. See you then.
 
 This is an example of point based communication. Each message communicates approximately one point.
  
-### Conversation 2 -
-Adam: Hey Betty, I want to meet to talk for about 30m about project X.  
-I'm free at 12, 2 and 3 today, or 8:45 to 10 tomorrow.  
-Betty: Let's do 3 today.
+#### Conversation 2
+> Adam: Hey Betty, I want to meet to talk for about 30m about project X.  
+  I'm free at 12, 2 and 3 today, or 8:45 to 10 tomorrow.  
+> Betty: Let's do 3 today.
 
 This is an example of set based communication. Each message communicates a set of options.
 
