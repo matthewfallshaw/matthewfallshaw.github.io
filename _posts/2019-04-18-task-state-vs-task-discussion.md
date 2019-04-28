@@ -26,10 +26,10 @@ Task managers often allow a separation between a task *description* and a
 (possibly threaded) task *discussion*. The separation between *description* and
 *discussion* should not be ignored. Discuss the task in the *discussion
 thread*, and whenever a decision is made or a milestone is achieved that
-changes the current state of the task, update the task *discussion*. Read back
+changes the current state of the task, update the task *description*. Read back
 over the task *description* as you've left it and make sure that it's in a
-state that is robust to an intelligent but uninformed colleague having missed
-parts of the *discussion* but still being able to contribute.  (It's perfectly
-fine to [refer](/rule-one) to content in the discussion rather than
+state that would allow an intelligent but uninformed colleague having missed
+parts of the *discussion* to quickly get up to speed and contribute.  (It's
+perfectly fine to [refer](/rule-one) to content in the discussion rather than
 transcribing it, just don't assume that anyone will have seen and rememberd
 anything down there.)
