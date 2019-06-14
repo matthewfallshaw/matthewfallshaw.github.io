@@ -41,13 +41,18 @@ down), and it's likely that you and others will want to refer to the decision
 many more times that the one time you'll have to write it down.
 
 ## Also Useful
-When "completing" a task, update its description with relevant links (the
-live feature, the completed document, etc.). This is useful:
+When "completing" a task, update its description with a summary of the task
+resolution, relevant links (the live feature, the completed document, etc.).
+This is useful:
 1. for others reviewing their system notifications (so that they can see &
    confirm that the task is complete to their satisfaction),
-2. for future people (including future instances of *you*) who find the
-   historical task as a way to find links to the reason the task existed in
-   the first place, and
+2. for future people who find the historical task(including future instances
+   of *you*) as a way to find links to the reason the task existed in the
+   first place, and
 3. to use the exercise as an opportunity to review whether the task is actually
    complete to *your* satisfaction, and what you have learned from the exercise
    of completing it.
+
+There is unlikely to be any time when you have all of the relevant information
+better loaded up in your mind and making such updates will be as easy to do
+as the moment you complete the task.
