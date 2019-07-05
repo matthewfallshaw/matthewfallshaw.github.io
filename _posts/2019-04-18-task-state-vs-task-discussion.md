@@ -33,7 +33,7 @@ over the task *description* as you've left it and make sure that it's in a
 state that would allow an intelligent but uninformed colleague having missed
 parts of the *discussion* to quickly get up to speed and contribute.  (It's
 perfectly fine to [refer](/rule-one) to content in the discussion rather than
-transcribing it, just don't assume that anyone will have seen and rememberd
+transcribing it, just don't assume that anyone will have seen and remembered
 anything down there.) *This moment* (when you've just made the relevant
 decision) is the cheapest moment that is likely ever to exist to record the
 decision (it's already all organised in your mind, you just have to write it
@@ -46,7 +46,7 @@ resolution, relevant links (the live feature, the completed document, etc.).
 This is useful:
 1. for others reviewing their system notifications (so that they can see &
    confirm that the task is complete to their satisfaction),
-2. for future people who find the historical task(including future instances
+2. for future people who find the historical task (including future instances
    of *you*) as a way to find links to the reason the task existed in the
    first place, and
 3. to use the exercise as an opportunity to review whether the task is actually
