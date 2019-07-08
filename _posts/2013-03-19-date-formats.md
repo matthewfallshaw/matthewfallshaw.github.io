@@ -4,6 +4,7 @@ title: Date Formats
 redirect_from:
   - /date-formats
   - /2013/03/19/time
+  - /dates
 last_modified_at: 2019-02-12
 ---
 There really is only one good short date format:
