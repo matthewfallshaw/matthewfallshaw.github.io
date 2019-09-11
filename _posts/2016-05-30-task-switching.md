@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Task Switching"
+redirect_from:
+  - "/interrupt"
+  - "/interrupt-levels"
 ---
 Task switching is expensive (you've summoned the actors required for your current task onto your mental stage, and you have limited room on stage, so to handle a task switch you need to dismiss enough actors to make room for the new task, summon the actors required for the new task, then dismiss them and summon the others to return to your original task; and the break in your flow may be an excuse to pause or switch to easier tasks, and etc.).
 
